@@ -17,3 +17,5 @@ A modern and responsive website for **She Can Foundation**, a non-profit organiz
 * CSS3
 * JavaScript
 
+## Update 2026
+
